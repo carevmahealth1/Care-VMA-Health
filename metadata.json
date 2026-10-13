@@ -1,0 +1,6 @@
+{
+  "name": "Care VMA Health",
+  "description": "Premier virtual medical assistant solutions for US healthcare practices. Streamline patient communication, administrative workflows, clinical support, and revenue cycle operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
